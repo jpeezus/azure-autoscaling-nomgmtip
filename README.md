@@ -1,4 +1,5 @@
 # Auto Scaling the VM-Series-firewall on Azure
+# Test version with no Mgmt IP
 
 Palo Alto Networks now provides templates to help you deploy an auto-scaling tier of VM-Series firewalls
 using several Azure services such as Virtual Machine Scale Sets, Application Insights, Azure Load Balancers,
